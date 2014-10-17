@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  matrikel: 1
+  firstname: MyString
+  lastname: MyString
+  date_of_birth: 2014-10-17
+  gender: 1
+
+two:
+  matrikel: 1
+  firstname: MyString
+  lastname: MyString
+  date_of_birth: 2014-10-17
+  gender: 1
