@@ -1,9 +1,8 @@
 source 'https://rubygems.org'
 
+gem 'dotenv-rails'
 
 gem 'rails', '4.1.6'
-
-gem 'dotenv-rails'
 
 gem 'pg'
 gem 'sass-rails', '~> 4.0.3'
